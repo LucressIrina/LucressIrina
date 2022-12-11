@@ -26,7 +26,7 @@ I am a creative person who enjoys trying new thing and I've always been intere
 * 🖥️  See my portfolio at [My Portfolio](http://magnificent-faloodeh-6a9b2d.netlify.app/)
 * ✉️  You can contact me at [lucressirinak@gmail.com](mailto:lucressirinak@gmail.com)
 * 🤝  I'm open to collaborating on Front-End Development Projects
-* 💕  Fun fact I love laughing 🤣, adventures 🧗🏽‍♀️, the keyboard 🎹, and trying new foods 🤤
+* 💕  Fun facts I love laughing 🤣, adventures 🧗🏽‍♀️, the keyboard 🎹, and trying new foods 🤤
 
 ### Skills
 
