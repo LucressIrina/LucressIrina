@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LucressIrina/LucressIrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer/Designer
 ----------------------
 
-I am a creative person who enjoys trying new thing and I've always been interested in web development. It fascinated me even more after completing projects on CodeCamp. I am proficient in HTML, CSS, and JavaScript; and I am currently honing my web development skills by learning new technologies. I've always been a quick learner, easily grasping concepts, and my ability to work well in teams has been a major benefit. I am excited about the prospect of using my technical skills and experiences in my career.
+I am a creative person who enjoys trying new things and I've always been interested in Web Development. It fascinated me even more after completing projects on CodeCamp. I have a working knowledge of HTML, CSS, and JavaScript. I am currently honing my Web Development skills by learning new technologies. I also have always been a quick learner, easily grasping concepts, and my ability to work well in teams has been a major benefit. I am excited about the prospect of using my technical skills and experiences in my career.
 
 * 🌍  I'm based in Tampa, FL
 * 🖥️  See my portfolio at [My Portfolio](http://magnificent-faloodeh-6a9b2d.netlify.app/)
