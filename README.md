@@ -23,7 +23,7 @@ Web Developer/Designer
 I am a creative person who enjoys trying new things and I've always been interested in Web Development. It fascinated me even more after completing projects on CodeCamp. I have a working knowledge of HTML, CSS, and JavaScript. I am currently honing my Web Development skills by learning new technologies. I also have always been a quick learner, easily grasping concepts, and my ability to work well in teams has been a major benefit. I am excited about the prospect of using my technical skills and experiences in my career.
 
 * 🌍  I'm based in Tampa, FL
-* 🖥️  See my portfolio at [My Portfolio](https://monumental-rolypoly-111be4.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](https://darling-gingersnap-9f67fd.netlify.app)
 * ✉️  You can contact me at [lucressirinak@gmail.com](mailto:lucressirinak@gmail.com)
 * 🤝  I'm open to collaborating on Front-End Development Projects
 * 💕  Fun facts I love laughing 🤣, adventures 🧗🏽‍♀️, the keyboard 🎹, and trying new foods 🤤
