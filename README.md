@@ -24,7 +24,6 @@ I am a creative person who enjoys trying new things and I've always been inter
 
 * 🌍  I'm based in Tampa, FL
 * 🖥️  See my portfolio at [My Portfolio](https://darling-gingersnap-9f67fd.netlify.app)
-* ✉️  You can contact me at [lucressirinak@gmail.com](mailto:lucressirinak@gmail.com)
 * 🤝  I'm open to collaborating on Front-End Development Projects
 * 💕  Fun facts I love laughing 🤣, adventures 🧗🏽‍♀️, the keyboard 🎹, and trying new foods 🤤
 
