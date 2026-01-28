@@ -14,26 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucress Irina Kamga
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucress Kamga
 ===========================================================================================================================================
 
-Web Developer/Designer
+Technical Operations Engineer/ Data Analyst
 ----------------------
 
-I am a creative person who enjoys trying new things and I've always been interested in Web Development. It fascinated me even more after completing projects on CodeCamp. I have a working knowledge of HTML, CSS, and JavaScript. I am currently honing my Web Development skills by learning new technologies. I also have always been a quick learner, easily grasping concepts, and my ability to work well in teams has been a major benefit. I am excited about the prospect of using my technical skills and experiences in my career.
+I am a creative and analytical IT professional with experience in data analysis, Python, SQL, Tableau, and Excel. My background includes flight operations and logistics account management, where I developed strong problem-solving and team collaboration skills. As an IT graduate from Purdue Global University, I am passionate about turning data into actionable insights and building scalable technical solutions.
 
-* 🌍  I'm based in Tampa, FL
-* 🖥️  See my portfolio at [My Portfolio](https://darling-gingersnap-9f67fd.netlify.app)
-* 🤝  I'm open to collaborating on Front-End Development Projects
-* 💕  Fun facts I love laughing 🤣, adventures 🧗🏽‍♀️, the keyboard 🎹, and trying new foods 🤤
+
+* 🌍  I'm based in Chicago, IL
+* 🤝  I'm open to collaborating on projects
+* 💕  Fun facts I love laughing 🤣, adventures 🧗🏽‍♀️, and trying new foods 🤤
 
 ### Skills
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+
+ <!-- SQL -->
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img width="37" height="37" alt="image" src="https://github.com/user-attachments/assets/8f62c36a-2c94-4014-9b62-2d8ee781fb1b" /> 
+
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+   <img width="37" height="37" alt="image" src="https://github.com/user-attachments/assets/a2e7a0c5-5bf3-4b02-b19b-8eb15baf7cb4" />
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="36" height="36" alt="Tableau" />
+  </a>
 </p>
 
 
