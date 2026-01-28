@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Operations Engineer/ Data Analyst
 ----------------------
 
-I am a creative and analytical IT professional with experience in data analysis, Python, SQL, Tableau, and Excel. My background includes flight operations and logistics account management, where I developed strong problem-solving and team collaboration skills. As an IT graduate from Purdue Global University, I am passionate about turning data into actionable insights and building scalable technical solutions.
+I am a creative and analytical IT professional with strong skills in Python, SQL, Tableau, and Excel, and a passion for applying these tools to data analysis projects. My background includes flight operations and logistics account management, where I developed strong problem-solving and team collaboration skills. As an IT graduate from Purdue Global University, I am enthusiastic about turning data into actionable insights and building scalable technical solutions.
 
 
 * 🌍  I'm based in Chicago, IL
